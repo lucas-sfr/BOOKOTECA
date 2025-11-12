@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOOKOTECA</title>
+    <link id="link-tema" rel="stylesheet" href="css/tema-principal.css">
+</head>
+
+<body>
+    <header>
+        <h1>BOOKOTECA: OS MELHORES BOOKS PRA SUA BIBLIOTECA</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a> |
+        <b>Catálogo</b> |
+        <a href="SAC.html">SAC</a> |
+        <a id="nav-equipe" href="Equipe.html">Equipe</a> |
+        <a id="btn-tema">Tema Escuro</a>
+    </nav>
+    <main>
+        <h2 class="titulo-secundario">Livros disponiveis no catálogo</h2>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>Livro</th>
+                    <th>Título</th>
+                    <th>Gênero</th>
+                    <th>Autor(a)</th>
+                    <th>Editora</th>
+                    <th>Data de publicação</th>
+                </tr>
+            </thead>
+            <tbody id="corpo-tabela-livros"></tbody>
+        </table>
+    </main>
+    <footer>
+        <p>
+            © 2025 BOOKOTECA. Todos os direitos reservados.
+        </p>
+        <p>
+            Este projeto é uma ferramenta educacional e não comercial. As informações e imagens de livros são utilizadas
+            para fins de demonstração, aprendizado e ilustração de conceitos de desenvolvimento web.
+        </p>
+    </footer>
+    <script src="js/carregar_dados.js"></script>
+    <script src="js/tema.js"></script>
+</body>
+
+</html>

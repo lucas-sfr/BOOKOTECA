@@ -1,0 +1,46 @@
+[
+    {
+        "imagem": {
+            "src": "https://images.dlivros.org/Stephen-King/it-coisa-stephen-king_large.webp",
+            "alt": "IT: A Coisa"
+        },
+        "titulo": "IT: A Coisa",
+        "genero": "Terror",
+        "autor": "Stephen King",
+        "editora": "Suma",
+        "data": "24/05/2014"
+    },
+    {
+        "imagem": {
+            "src": "https://m.media-amazon.com/images/I/91RMqWB-CTL._SL1500_.jpg",
+            "alt": "O Diário de Anne Frank"
+        },
+        "titulo": "O Diário de Anne Frank",
+        "genero": "Biografia",
+        "autor": "Anne Frank",
+        "editora": "Record",
+        "data": "29/09/1995"
+    },
+    {
+        "imagem": {
+            "src": "https://upload.wikimedia.org/wikipedia/pt/thumb/d/d8/Capa_de_Os_13_Porqu%C3%AAs.jpg/250px-Capa_de_Os_13_Porqu%C3%AAs.jpg",
+            "alt": "Os 13 Porquês"
+        },
+        "titulo": "Os 13 Porquês",
+        "genero": "Romance",
+        "autor": "Jay Asher",
+        "editora": "Ática",
+        "data": "01/01/2009"
+    },
+    {
+        "imagem": {
+            "src": "https://m.media-amazon.com/images/I/91bx6H2jITL._SL1500_.jpg",
+            "alt": "Minha Versão de Você"
+        },
+        "titulo": "Minha Versão de Você",
+        "genero": "Ficção Juvenil",
+        "autor": "Christina Lauren",
+        "editora": "Hoo Editora",
+        "data": "31/01/2020"
+    }
+]
